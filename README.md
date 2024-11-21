@@ -1,12 +1,14 @@
 # Hi 👋 My name is Unai Bermudez
 
-### Computer Science Student at University of the Basque Country (UPV/EHU)
+### 📚 Computer Science Student at University of the Basque Country (UPV/EHU)<br>
 
-### Socials
+### 💼 Software Engineer Intern at LKS NEXT
+
+## Socials
 
 <p align="left"> <a href="https://www.github.com/unaibermudez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/unai-bermudez-osaba-708695269/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## STACK
+## Tech Stack
 
 ### OS
 <img src="img\os\windows.png"
@@ -45,10 +47,14 @@ title="Python">
 width="32"
 height="32"
 title="Java">
-<img src="img\pl\sql.png"
+<img src="img\pl\ts.png"
 width="32"
 height="32"
-title="SQL">
+title="TypeScript">
+<img src="img\pl\js.png"
+width="32"
+height="32"
+title="JavaScript">
 <img src="img\pl\html.png"
 width="32"
 height="32"
@@ -57,26 +63,15 @@ title="HTML">
 width="32"
 height="32"
 title="CSS">
-<img src="img\pl\js.png"
+<img src="img\pl\sql.png"
 width="32"
 height="32"
-title="JavaScript">
-<img src="img\pl\asm.png"
-width="32"
-height="32"
-title="Assembly">
-<img src="img\pl\php.png"
-width="32"
-height="32"
-title="PHP">
+title="SQL">
 <img src="img\pl\c.png"
 width="32"
 height="32"
 title="C">
-<img src="img\pl\ada.png"
-width="32"
-height="32"
-title="ADA">
+
 
 ### TOOLS
 <img src="img\tools\ros2.png"
@@ -91,14 +86,6 @@ title="MySQL">
 width="32"
 height="32"
 title="MariaDB">
-<img src="img\tools\gpt.png"
-width="32"
-height="32"
-title="GPT">
-<img src="img\tools\gc.png"
-width="32"
-height="32"
-title="GitHub Copilot">
 <img src="img\tools\mongodb.png"
 width="32"
 height="32"
@@ -107,33 +94,10 @@ title="MongoDB">
 width="32"
 height="32"
 title="Docker">
-<img src="img\tools\apache.png"
-width="32"
-height="32"
-title="Apache">
-<img src="img\tools\nginx.png"
-width="32"
-height="32"
-title="NGINX">
-<img src="img/tools/flask.png"
-width="32"
-height="32"
-title="Flask">
-<img src="img\tools\curl.png"
-width="32"
-height="32"
-title="curl">
-<img src="img\tools\wireshark.png"
-width="32"
-height="32"
-title="Wireshark">
-<img src="img\tools\burpsuit.png"
-width="32"
-height="32"
-title="Burpsuit">
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unaibermudez&layout=compact&theme=dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unaibermudez&show_icons=true&theme=dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/unaibermudez001)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=unaibermudez&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=unaibermudez&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unaibermudez&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
