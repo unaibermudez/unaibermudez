@@ -1,8 +1,7 @@
 # Hi 👋 My name is Unai Bermudez
 
-### 📚 Computer Science Student at University of the Basque Country (UPV/EHU)<br>
-
-### 💼 Software Engineer Intern at LKS NEXT
+### 🎓 Computer Science Graduate · University of the Basque Country (UPV/EHU)  
+### 💼 Junior Software Engineer · LKS NEXT
 
 ## Socials
 
