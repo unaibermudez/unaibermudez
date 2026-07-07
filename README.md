@@ -51,7 +51,7 @@ AWS · Testing (JUnit, Mockito, Vitest) · AI Engineering fundamentals
 <img src="img/devops/liquibase.png" width="32" height="32" title="Liquibase">
 <img src="img/devops/git.png" width="32" height="32" title="Git">
 <img src="img/devops/aws.png" width="32" height="32" title="AWS">
-<img src="img/tools/ros2.png" width="32" height="32" title="ROS2" >
+<img src="img/tools/ros2.png" width="32" height="32" title="ROS2">
 
 
 
