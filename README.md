@@ -26,28 +26,24 @@ AWS · Testing (JUnit, Mockito, Vitest) · AI Engineering fundamentals
 ## Tech Stack
 
 ### Frontend
-<img src="img/pl/react.png" width="32" height="32" title="React">
-<img src="img/pl/ts.png" width="32" height="32" title="TypeScript">
+<img src="img/pl/react.png" width="32" height="32" title="React"> <img src="img/pl/ts.png" width="32" height="32" title="TypeScript">
 <img src="img/pl/js.png" width="32" height="32" title="JavaScript">
 <img src="img/frontend/redux.png" width="32" height="32" title="Redux Toolkit">
 <img src="img/pl/html.png" width="32" height="32" title="HTML">
 <img src="img/pl/css.png" width="32" height="32" title="CSS">
 
 ### Backend
-<img src="img/pl/java.png" width="32" height="32" title="Java">
-<img src="img/backend/springboot.png" width="32" height="32" title="Spring Boot">
+<img src="img/pl/java.png" width="32" height="32" title="Java"><img src="img/backend/springboot.png" width="32" height="32" title="Spring Boot">
 <img src="img/pl/python.png" width="32" height="32" title="Python">
 <img src="img/backend/node.png" width="32" height="32" title="Node.js">
 
 ### Databases
-<img src="img/tools/postgreSQL.png" width="32" height="32" title="PostgreSQL">
-<img src="img/tools/mysql.png" width="32" height="32" title="MySQL">
+<img src="img/tools/postgreSQL.png" width="32" height="32" title="PostgreSQL"><img src="img/tools/mysql.png" width="32" height="32" title="MySQL">
 <img src="img/tools/mongodb.png" width="32" height="32" title="MongoDB">
 <img src="img/tools/mariadb.png" width="32" height="32" title="MariaDB">
 
 ### DevOps & Tools
-<img src="img/tools/docker.png" width="32" height="32" title="Docker">
-<img src="img/devops/cicd.png" width="32" height="32" title="CI/CD">
+<img src="img/tools/docker.png" width="32" height="32" title="Docker"><img src="img/devops/cicd.png" width="32" height="32" title="CI/CD">
 <img src="img/devops/liquibase.png" width="32" height="32" title="Liquibase">
 <img src="img/devops/git.png" width="32" height="32" title="Git">
 <img src="img/devops/aws.png" width="32" height="32" title="AWS">
