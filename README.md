@@ -32,47 +32,61 @@ Bilingual personal site built with Astro. One URL serves both Spanish and Englis
 ## Stack
 
 ### Frontend
+<p>
 <img src="img/frontend/react.png" width="32" height="32" alt="React" title="React">
 <img src="img/frontend/ts.png" width="32" height="32" alt="TypeScript" title="TypeScript">
 <img src="img/frontend/js.png" width="32" height="32" alt="JavaScript" title="JavaScript">
 <img src="img/frontend/redux.png" width="32" height="32" alt="Redux Toolkit" title="Redux Toolkit">
 <img src="img/frontend/html.png" width="32" height="32" alt="HTML" title="HTML">
 <img src="img/frontend/css.png" width="32" height="32" alt="CSS" title="CSS">
+</p>
 
 ### Backend
+<p>
 <img src="img/backend/java.png" width="32" height="32" alt="Java" title="Java">
 <img src="img/backend/springboot.png" width="32" height="32" alt="Spring Boot" title="Spring Boot">
 <img src="img/backend/node.png" width="32" height="32" alt="Node.js" title="Node.js">
 <img src="img/backend/python.png" width="32" height="32" alt="Python" title="Python">
+</p>
 
 ### Databases
+<p>
 <img src="img/databases/postgresql.png" width="32" height="32" alt="PostgreSQL" title="PostgreSQL">
 <img src="img/databases/mysql.png" width="32" height="32" alt="MySQL" title="MySQL">
 <img src="img/databases/mariadb.png" width="32" height="32" alt="MariaDB" title="MariaDB">
 <img src="img/databases/mongodb.png" width="32" height="32" alt="MongoDB" title="MongoDB">
 <img src="img/databases/liquibase.svg" width="32" height="32" alt="Liquibase" title="Liquibase">
+</p>
 
 ### Infrastructure
+<p>
 <img src="img/infra/docker.png" width="32" height="32" alt="Docker" title="Docker">
 <img src="img/infra/github-actions.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions (CI/CD)">
 <img src="img/infra/aws.png" width="32" height="32" alt="AWS" title="AWS (currently learning)">
+</p>
 
 ### Everyday tools
+<p>
 <img src="img/tools/git.svg" width="32" height="32" alt="Git" title="Git">
 <img src="img/tools/sonarqube.svg" width="32" height="32" alt="SonarQube" title="SonarQube">
 <img src="img/tools/postman.svg" width="32" height="32" alt="Postman" title="Postman">
 <img src="img/tools/intellij.png" width="32" height="32" alt="IntelliJ IDEA" title="IntelliJ IDEA">
 <img src="img/tools/vscode.png" width="32" height="32" alt="VS Code" title="VS Code">
 <img src="img/tools/linux.png" width="32" height="32" alt="Linux" title="Linux">
+</p>
 
 ### Robotics
+<p>
 <img src="img/robotics/ros2.png" width="32" height="32" alt="ROS2" title="ROS2">
+</p>
 
 Path planning for autonomous driving at Formula Student Bizkaia.
 
 ### Ways of working
+<p>
 <img src="img/work/jira.svg" width="32" height="32" alt="Jira" title="Jira">
 <img src="img/work/microsoft365.svg" width="32" height="32" alt="Microsoft 365" title="Microsoft 365">
+</p>
 
 ## Currently learning
 
