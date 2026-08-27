@@ -3,14 +3,14 @@
 **Full Stack Developer @ LKS Next · Bilbao, Basque Country**
 Computer Science Graduate · University of the Basque Country (UPV/EHU)
 
-I build enterprise web applications with React, TypeScript, Java and Spring Boot. Currently working on B2B solutions and exploring AI engineering on the side.
+I build enterprise web applications end to end: data model and REST APIs with Java and Spring Boot, PostgreSQL, authentication with OAuth2 and JWT, and the React front end on top.
 
 🌐 **[unaibermudez.github.io](https://unaibermudez.github.io)** · 💼 **[LinkedIn](https://www.linkedin.com/in/unai-bermudez-osaba-708695269/)**
 
 ## Experience
 
 **Junior Full Stack Developer, LKS Next** (2024 – Present)
-B2B enterprise projects. React frontend, backend integration, code quality with SonarQube, deployment.
+Full-stack work on B2B enterprise projects: Spring Boot services and REST APIs, PostgreSQL with Liquibase migrations, integration with an external electronic signature system, React front ends, code quality with SonarQube and deployment.
 
 **Formula Student Bizkaia**
 Path planning for autonomous driving with ROS2 and Python. Competed at FSUK Silverstone 2024.
@@ -30,16 +30,6 @@ Draw a pattern on the GitHub contribution grid and export a Bash or PowerShell s
 Bilingual personal site built with Astro. One URL serves both Spanish and English, with generated OG images and full-text search.
 
 ## Stack
-
-### Frontend
-<p>
-<img src="img/frontend/react.png" width="32" height="32" alt="React" title="React">
-<img src="img/frontend/ts.png" width="32" height="32" alt="TypeScript" title="TypeScript">
-<img src="img/frontend/js.png" width="32" height="32" alt="JavaScript" title="JavaScript">
-<img src="img/frontend/redux.png" width="32" height="32" alt="Redux Toolkit" title="Redux Toolkit">
-<img src="img/frontend/html.png" width="32" height="32" alt="HTML" title="HTML">
-<img src="img/frontend/css.png" width="32" height="32" alt="CSS" title="CSS">
-</p>
 
 ### Backend
 <p>
@@ -63,6 +53,16 @@ Bilingual personal site built with Astro. One URL serves both Spanish and Englis
 <img src="img/infra/docker.png" width="32" height="32" alt="Docker" title="Docker">
 <img src="img/infra/github-actions.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions (CI/CD)">
 <img src="img/infra/aws.png" width="32" height="32" alt="AWS" title="AWS (currently learning)">
+</p>
+
+### Frontend
+<p>
+<img src="img/frontend/react.png" width="32" height="32" alt="React" title="React">
+<img src="img/frontend/ts.png" width="32" height="32" alt="TypeScript" title="TypeScript">
+<img src="img/frontend/js.png" width="32" height="32" alt="JavaScript" title="JavaScript">
+<img src="img/frontend/redux.png" width="32" height="32" alt="Redux Toolkit" title="Redux Toolkit">
+<img src="img/frontend/html.png" width="32" height="32" alt="HTML" title="HTML">
+<img src="img/frontend/css.png" width="32" height="32" alt="CSS" title="CSS">
 </p>
 
 ### Everyday tools
@@ -90,7 +90,7 @@ Path planning for autonomous driving at Formula Student Bizkaia.
 
 ## Currently learning
 
-AWS · Testing (JUnit, Mockito, Vitest) · AI Engineering fundamentals
+Integration testing with Testcontainers · Transactions and isolation levels in Spring · Multi-tenant data isolation with PostgreSQL RLS
 
 ## Socials
 
